@@ -1,0 +1,14 @@
+{
+	"Identifier": "io.macadmins.pam.asset",
+	"Type": "com.apple.asset.data",
+	"Payload": {
+		"Reference": {
+			"ContentType": "application/zip",
+			"DataURL": "https://files.macadmins.io/pam-0.0.1.zip"
+		},
+		"Hash-SHA-256": "90e7054f53977622c3334e5ff90d1d56dee2b58325bb81f95af5968650017d9b"
+	},
+	"Authentication": {
+		"Type": "None"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"Type": "com.apple.configuration.services.configuration-files",
+	"Identifier": "io.macadmins.pam.config",
+	"Payload": {
+		"ServiceType": "com.apple.pam",
+		"DataAssetReference": "io.macadmins.pam.asset"
+	}
+}
