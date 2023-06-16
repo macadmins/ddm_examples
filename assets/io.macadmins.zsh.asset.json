@@ -1,0 +1,14 @@
+{
+    "Identifier": "io.macadmins.zsh.asset",
+    "Type": "com.apple.asset.data",
+    "Payload": {
+        "Reference": {
+            "ContentType": "application/zip",
+            "DataURL": "https://files.macadmins.io/zsh-0.0.2.zip"
+        },
+        "Hash-SHA-256": "1f5cf1d0f0f0ffc3db7a4e1279449a678865c1a6e0e711b8c7e11e7143a7f0ed"
+    },
+    "Authentication": {
+        "Type": "None"
+    }
+}
