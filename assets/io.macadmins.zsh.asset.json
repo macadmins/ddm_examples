@@ -4,9 +4,9 @@
     "Payload": {
         "Reference": {
             "ContentType": "application/zip",
-            "DataURL": "https://files.macadmins.io/zsh-0.0.2.zip"
-        },
-        "Hash-SHA-256": "1f5cf1d0f0f0ffc3db7a4e1279449a678865c1a6e0e711b8c7e11e7143a7f0ed"
+            "DataURL": "https://files.macadmins.io/zsh-0.0.3.zip",
+            "Hash-SHA-256": "5ae05f6f3e0fa45e73512b716a52b13e5702ffbeeca5784d953257f3d4d696d4"
+        }
     },
     "Authentication": {
         "Type": "None"
