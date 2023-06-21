@@ -1,0 +1,11 @@
+{
+	"Identifier": "io.macadmins.activation.all",
+	"Payload": {
+		"StandardConfigurations": [
+			"io.macadmins.zsh.config",
+			"io.macadmins.pam.config"
+		]
+	},
+	"ServerToken": "",
+	"Type": "com.apple.activation.simple"
+}
