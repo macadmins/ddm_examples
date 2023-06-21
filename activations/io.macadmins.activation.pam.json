@@ -1,0 +1,10 @@
+{
+	"Identifier": "io.macadmins.activation.pam",
+	"Payload": {
+		"StandardConfigurations": [
+			"io.macadmins.pam.config"
+		]
+	},
+	"ServerToken": "",
+	"Type": "com.apple.activation.simple"
+}
