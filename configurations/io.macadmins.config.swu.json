@@ -1,6 +1,6 @@
 {
 	"Type": "com.apple.configuration.softwareupdate.enforcement.specific",
-	"Identifier": "io.macadmins.swu.config",
+	"Identifier": "io.macadmins.config.swu",
 	"Payload": {
 		"TargetOSVersion": "14.0",
 		"TargetBuildVersion": "23A5276g",

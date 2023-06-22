@@ -2,7 +2,7 @@
   "Identifier": "io.macadmins.activation.zsh",
   "Payload": {
     "StandardConfigurations": [
-      "io.macadmins.zsh.config"
+      "io.macadmins.config.zsh"
     ]
   },
   "ServerToken": "",

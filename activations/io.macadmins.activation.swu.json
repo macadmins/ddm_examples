@@ -2,7 +2,7 @@
   "Identifier": "io.macadmins.activation.swu",
   "Payload": {
     "StandardConfigurations": [
-      "io.macadmins.swu.config"
+      "io.macadmins.config.swu"
     ]
   },
   "ServerToken": "",
