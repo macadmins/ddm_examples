@@ -1,0 +1,10 @@
+{
+	"Type": "com.apple.configuration.softwareupdate.enforcement.specific",
+	"Identifier": "io.macadmins.swu.config",
+	"Payload": {
+		"TargetOSVersion": "14.0",
+		"TargetBuildVersion": "23A5276g",
+		"TargetLocalDateTime": "2023-06-22T10:30:00",
+		"DetailsURL": "https://www.apple.com"
+	}
+}

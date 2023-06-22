@@ -1,0 +1,10 @@
+{
+  "Identifier": "io.macadmins.activation.swu",
+  "Payload": {
+    "StandardConfigurations": [
+      "io.macadmins.swu.config"
+    ]
+  },
+  "ServerToken": "",
+  "Type": "com.apple.activation.simple"
+}
