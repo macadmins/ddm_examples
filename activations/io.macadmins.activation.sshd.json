@@ -1,0 +1,10 @@
+{
+	"Identifier": "io.macadmins.activation.sshd",
+	"Payload": {
+		"StandardConfigurations": [
+			"io.macadmins.config.sshd"
+		]
+	},
+	"ServerToken": "",
+	"Type": "com.apple.activation.simple"
+}
