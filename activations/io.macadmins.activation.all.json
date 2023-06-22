@@ -2,8 +2,9 @@
 	"Identifier": "io.macadmins.activation.all",
 	"Payload": {
 		"StandardConfigurations": [
-			"io.macadmins.zsh.config",
-			"io.macadmins.pam.config"
+			"io.macadmins.config.pam",
+			"io.macadmins.config.swu",
+			"io.macadmins.config.zsh"
 		]
 	},
 	"ServerToken": "",

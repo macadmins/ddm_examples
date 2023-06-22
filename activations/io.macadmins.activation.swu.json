@@ -1,8 +1,8 @@
 {
-  "Identifier": "io.macadmins.activation.zsh",
+  "Identifier": "io.macadmins.activation.swu",
   "Payload": {
     "StandardConfigurations": [
-      "io.macadmins.config.zsh"
+      "io.macadmins.config.swu"
     ]
   },
   "ServerToken": "",

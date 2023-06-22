@@ -1,8 +1,8 @@
 {
 	"Type": "com.apple.configuration.services.configuration-files",
-	"Identifier": "io.macadmins.zsh.config",
+	"Identifier": "io.macadmins.config.zsh",
 	"Payload": {
 		"ServiceType": "com.apple.zsh",
-		"DataAssetReference": "io.macadmins.zsh.asset"
+		"DataAssetReference": "io.macadmins.asset.zsh"
 	}
 }
