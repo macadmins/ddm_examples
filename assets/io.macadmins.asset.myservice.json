@@ -1,0 +1,14 @@
+{
+    "Identifier": "io.macadmins.asset.myservice",
+    "Type": "com.apple.asset.data",
+    "Payload": {
+        "Reference": {
+            "ContentType": "application/zip",
+            "DataURL": "https://files.macadmins.io/myservice-0.0.1.zip",
+            "Hash-SHA-256": "27e89351da8a326e94327b7b88917b1bf2b66c57bc6908c43407c95d6cc113a8"
+        }
+    },
+    "Authentication": {
+        "Type": "None"
+    }
+}
