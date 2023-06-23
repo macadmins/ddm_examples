@@ -1,0 +1,10 @@
+{
+	"Identifier": "io.macadmins.activation.sudo",
+	"Payload": {
+		"StandardConfigurations": [
+			"io.macadmins.config.sudo"
+		]
+	},
+	"ServerToken": "",
+	"Type": "com.apple.activation.simple"
+}

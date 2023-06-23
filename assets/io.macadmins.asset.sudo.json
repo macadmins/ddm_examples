@@ -1,0 +1,14 @@
+{
+	"Identifier": "io.macadmins.asset.sudo",
+	"Type": "com.apple.asset.data",
+	"Payload": {
+		"Reference": {
+			"ContentType": "application/zip",
+			"DataURL": "https://files.macadmins.io/sudo-0.0.2.zip",
+			"Hash-SHA-256": "967c8b4a9db1bf5c63576c006064fd02b7884a84a4ce6b0bf7af6527ebc65f1d"
+		}
+	},
+	"Authentication": {
+		"Type": "None"
+	}
+}

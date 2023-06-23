@@ -1,0 +1,8 @@
+{
+	"Type": "com.apple.configuration.services.configuration-files",
+	"Identifier": "io.macadmins.config.sudo",
+	"Payload": {
+		"ServiceType": "com.apple.sudo",
+		"DataAssetReference": "io.macadmins.asset.sudo"
+	}
+}
