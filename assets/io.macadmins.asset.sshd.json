@@ -1,0 +1,14 @@
+{
+	"Identifier": "io.macadmins.asset.sshd",
+	"Type": "com.apple.asset.data",
+	"Payload": {
+		"Reference": {
+			"ContentType": "application/zip",
+			"DataURL": "https://files.macadmins.io/sshd-0.0.1.zip",
+			"Hash-SHA-256": "708904b8ceb7fb26a7e10bc391e643d269ed13d91b6af3f2262f138ddf4f449c"
+		}
+	},
+	"Authentication": {
+		"Type": "None"
+	}
+}

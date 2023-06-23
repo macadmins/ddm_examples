@@ -1,0 +1,8 @@
+{
+	"Type": "com.apple.configuration.services.configuration-files",
+	"Identifier": "io.macadmins.config.sshd",
+	"Payload": {
+		"ServiceType": "com.apple.sshd",
+		"DataAssetReference": "io.macadmins.asset.sshd"
+	}
+}
