@@ -1,0 +1,8 @@
+{
+	"Type": "com.apple.configuration.services.configuration-files",
+	"Identifier": "io.macadmins.config.myservice",
+	"Payload": {
+		"ServiceType": "io.macadmins.myservice",
+		"DataAssetReference": "io.macadmins.asset.myservice"
+	}
+}
