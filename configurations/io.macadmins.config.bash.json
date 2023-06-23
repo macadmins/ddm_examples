@@ -1,0 +1,8 @@
+{
+	"Type": "com.apple.configuration.services.configuration-files",
+	"Identifier": "io.macadmins.config.bash",
+	"Payload": {
+		"ServiceType": "com.apple.bash",
+		"DataAssetReference": "io.macadmins.asset.bash"
+	}
+}

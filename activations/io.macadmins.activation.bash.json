@@ -1,0 +1,10 @@
+{
+  "Identifier": "io.macadmins.activation.bash",
+  "Payload": {
+    "StandardConfigurations": [
+      "io.macadmins.config.bash"
+    ]
+  },
+  "ServerToken": "",
+  "Type": "com.apple.activation.simple"
+}

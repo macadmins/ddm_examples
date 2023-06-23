@@ -1,0 +1,14 @@
+{
+    "Identifier": "io.macadmins.asset.bash",
+    "Type": "com.apple.asset.data",
+    "Payload": {
+        "Reference": {
+            "ContentType": "application/zip",
+            "DataURL": "https://files.macadmins.io/bash-0.0.1.zip",
+            "Hash-SHA-256": "e324ca3db42e5e75adcc2353f3a8d7ab2313075e461e4ba8fe446c4fd1fc629f"
+        }
+    },
+    "Authentication": {
+        "Type": "None"
+    }
+}
