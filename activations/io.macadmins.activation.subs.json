@@ -1,0 +1,9 @@
+{
+    "Type": "com.apple.activation.simple",
+    "Payload": {
+        "StandardConfigurations": [
+            "io.macadmins.config.subs"
+        ]
+    },
+    "Identifier": "io.macadmins.activation.subs"
+}

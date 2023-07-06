@@ -1,0 +1,26 @@
+{
+    "Type": "com.apple.configuration.management.status-subscriptions",
+    "Payload": {
+        "StatusItems": [
+            {
+                "Name": "diskmanagement.filevault.enabled"
+            },
+            {
+                "Name": "services.background-task"
+            },
+            {
+                "Name": "softwareupdate.failure-reason"
+            },
+            {
+                "Name": "softwareupdate.install-reason"
+            },
+            {
+                "Name": "softwareupdate.install-state"
+            },
+            {
+                "Name": "softwareupdate.pending-version"
+            }
+        ]
+    },
+    "Identifier": "io.macadmins.config.subs"
+}
