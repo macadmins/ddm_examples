@@ -3,8 +3,8 @@
 	"Identifier": "io.macadmins.config.swu",
 	"Payload": {
 		"TargetOSVersion": "14.0",
-		"TargetBuildVersion": "23A5276g",
-		"TargetLocalDateTime": "2023-06-22T10:30:00",
+		"TargetBuildVersion": "23A5286g",
+		"TargetLocalDateTime": "2023-07-06T13:50:00",
 		"DetailsURL": "https://www.apple.com"
 	}
 }
