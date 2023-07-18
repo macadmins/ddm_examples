@@ -1,0 +1,7 @@
+{
+    "Type": "com.apple.management.properties",
+    "Payload": {
+        "hello": "world"
+    },
+    "Identifier": "io.macadmins.management.props"
+}
