@@ -2,3 +2,4 @@ io.macadmins.activation.test
 io.macadmins.config.test
 io.macadmins.activation.subs
 io.macadmins.config.subs
+io.macadmins.management.props

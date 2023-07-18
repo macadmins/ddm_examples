@@ -3,7 +3,8 @@
     "Payload": {
         "StandardConfigurations": [
             "io.macadmins.config.test"
-        ]
+        ],
+        "Predicate": "@property(hello) == \"world\""
     },
     "Identifier": "io.macadmins.activation.test"
 }
