@@ -31,5 +31,4 @@ io.macadmins.config.zsh
 
 
 #Management
-io.macadmins.management.ohai
 io.macadmins.management.props
