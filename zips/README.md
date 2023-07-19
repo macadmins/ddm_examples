@@ -1,13 +1,6 @@
-To bundle a zip into an asset file for distribution, follow these steps:
+To bundle a zip into an asset file for distribution, run `make`. This will
 
-* cd into the directory named for the service is is managing (`zsh` in this example)
+* bundle the sub-directories into a `.zip` archive called e.g. `pam-0.0.1.zip`
+* SHA-256 this and update the asset declaration in `../assets`
 
-`cd zsh`
-* Modify the files as needed
-* Zip it up and write it out to the parent directory
-
-`zip -r ../zsh-0.0.1.zip .`
-
-* Upload the zip to a cloud storage bucket of your choice which is publicly accessible
-* If you would like to use example files, the ddm examples in this repo already contain valid zip files and hashes
-
+If you already have `.zip` files built you may need to `make clean` to regenerate them.
