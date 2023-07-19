@@ -1,5 +1,4 @@
 # Activations
-io.macadmins.activation.all
 io.macadmins.activation.bash
 io.macadmins.activation.myservice
 io.macadmins.activation.pam
