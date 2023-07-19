@@ -1,0 +1,36 @@
+# Activations
+io.macadmins.activation.all
+io.macadmins.activation.bash
+io.macadmins.activation.myservice
+io.macadmins.activation.pam
+io.macadmins.activation.sshd
+io.macadmins.activation.subs
+io.macadmins.activation.sudo
+io.macadmins.activation.swu
+io.macadmins.activation.test
+io.macadmins.activation.zsh
+
+# Assets
+io.macadmins.asset.bash
+io.macadmins.asset.myservice
+io.macadmins.asset.pam
+io.macadmins.asset.sshd
+io.macadmins.asset.sudo
+io.macadmins.asset.zsh
+
+
+# Configs
+io.macadmins.config.bash
+io.macadmins.config.myservice
+io.macadmins.config.pam
+io.macadmins.config.sshd
+io.macadmins.config.subs
+io.macadmins.config.sudo
+io.macadmins.config.swu
+io.macadmins.config.test
+io.macadmins.config.zsh
+
+
+#Management
+io.macadmins.management.ohai
+io.macadmins.management.props
