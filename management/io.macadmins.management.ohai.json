@@ -1,0 +1,7 @@
+{
+	"Identifier": "io.macadmins.management.ohai",
+	"Payload": {
+		"ohai": "mark"
+	},
+	"Type": "com.apple.management.properties"
+}
