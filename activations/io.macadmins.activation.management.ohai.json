@@ -1,0 +1,10 @@
+{
+  "Identifier": "io.macadmins.activation.management.ohai",
+  "Payload": {
+    "StandardConfigurations": [
+      "io.macadmins.management.ohai"
+    ]
+  },
+  "ServerToken": "",
+  "Type": "com.apple.activation.simple"
+}
