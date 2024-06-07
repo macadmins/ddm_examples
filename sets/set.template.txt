@@ -1,0 +1,21 @@
+## Assets
+# Assets go here. They should be applied before anything else.
+# Examples:
+# io.macadmins.asset.zsh
+
+## Configs
+# Configurations go here. They should be specified before the activiation references them
+# Examples:
+# io.macadmins.config.swu
+# io.macadmins.config.zsh
+
+## Activations
+# Examples:
+# Add activations here. A config will not be applied unless there is an activation for it. Create this last
+# io.macadmins.activation.swu
+# io.macadmins.activation.zsh
+
+## Management
+# Management items go here. They seem to be standalone-ish and work without an explicit activation
+# Examples:
+# io.macadmins.management.props
