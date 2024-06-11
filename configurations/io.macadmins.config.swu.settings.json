@@ -1,0 +1,35 @@
+{
+	"Type": "com.apple.configuration.softwareupdate.settings",
+	"Identifier": "io.macadmins.config.swu.settings",
+	"Payload": {
+		"AllowStandardUserOSUpdates": true,
+		"AutomaticActions": {
+			"Download": "AlwaysOn",
+			"InstallOSUpdates": "AlwaysOn",
+			"InstallSecurityUpdate": "AlwaysOn"
+		},
+		"Beta": {
+			"OfferPrograms": {
+				"Descripion": "Seed Program",
+				"Token": "TOKEN_GOES_HERE"
+			},
+			"ProgramEnrollment": "Allowed",
+			"RequireProgram": {
+				"Descripion": "Seed Program",
+				"Token": "TOKEN_GOES_HERE"
+			}
+		},
+		"Deferrals": {
+			"CombinedPeriodInDays": 30,
+			"MajorPeriodInDays": 90,
+			"MinorPeriodInDays": 30,
+			"SystemPeriodInDays": 30
+		},
+		"Notifications": true,
+		"RapidSecurityResponse": {
+			"Enable": true,
+			"EnableRollBack": true
+		},
+		"RecommendedCadence": "All"
+	}
+}
