@@ -1,0 +1,10 @@
+{
+	"Identifier": "io.macadmins.activation.diskmanagement",
+	"Payload": {
+		"StandardConfigurations": [
+			"io.macadmins.config.diskmanagement"
+		]
+	},
+	"ServerToken": "",
+	"Type": "com.apple.activation.simple"
+}

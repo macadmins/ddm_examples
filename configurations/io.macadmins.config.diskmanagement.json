@@ -1,0 +1,10 @@
+{
+	"Type": "com.apple.configuration.diskmanagement.settings",
+	"Identifier": "io.macadmins.config.diskmanagement",
+	"Payload": {
+		"Restrictions": {
+			"ExternalStorage": "Disallowed",
+			"NetworkStorage": "Disallowed"
+		}
+	}
+}
