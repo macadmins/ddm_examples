@@ -1,0 +1,9 @@
+{
+	"Type": "com.apple.configuration.services.background-tasks",
+	"Identifier": "io.macadmins.config.exampleexecutable",
+	"Payload": {
+		"TaskDescription": "Example Executable",
+		"TaskType": "io.macadmins.exampleexecutable",
+		"ExecutableAssetReference": "io.macadmins.asset.exampleexecutable"
+	}
+}

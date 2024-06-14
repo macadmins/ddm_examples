@@ -1,0 +1,10 @@
+{
+	"Identifier": "io.macadmins.activation.exampleexecutable",
+	"Payload": {
+		"StandardConfigurations": [
+			"io.macadmins.config.exampleexecutable"
+		]
+	},
+	"ServerToken": "",
+	"Type": "com.apple.activation.simple"
+}
