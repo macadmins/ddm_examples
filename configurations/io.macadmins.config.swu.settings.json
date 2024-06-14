@@ -29,7 +29,6 @@
 		"RapidSecurityResponse": {
 			"Enable": true,
 			"EnableRollBack": true
-		},
-		"RecommendedCadence": "All"
+		}
 	}
 }
