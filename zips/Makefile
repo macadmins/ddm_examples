@@ -3,6 +3,8 @@ AUTH_TYPE="None"
 
 all: \
 	bash-0.0.1.zip \
+	exampledaemon-0.0.1.zip \
+	exampleexecutable-0.0.1.zip \
 	myservice-0.0.1.zip \
 	pam-0.0.1.zip \
 	sshd-0.0.1.zip \
@@ -11,6 +13,8 @@ all: \
 
 # the individual targets for file-up-to-date checking
 bash-0.0.1.zip: $(shell find bash -type f)
+exampledaemon-0.0.1.zip: $(shell find exampledaemon -type f)
+exampleexecutable-0.0.1.zip: $(shell find exampledaemon -type f)
 myservice-0.0.1.zip: $(shell find myservice -type f)
 pam-0.0.1.zip: $(shell find pam -type f)
 sshd-0.0.1.zip: $(shell find sshd -type f)

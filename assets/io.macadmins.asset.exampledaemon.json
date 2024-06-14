@@ -1,0 +1,14 @@
+{
+	"Identifier": "io.macadmins.asset.exampledaemon",
+	"Type": "com.apple.asset.data",
+	"Payload": {
+		"Reference": {
+			"ContentType": "text/xml",
+			"DataURL": "https://files.macadmins.io/io.macadmins.exampledaemon.plist",
+			"Hash-SHA-256": "23b5ad7cd586dce311d0fe35a9032e5fd8de35bc8204fb14d33d878a7b0282c7"
+		}
+	},
+	"Authentication": {
+		"Type": "None"
+	}
+}
