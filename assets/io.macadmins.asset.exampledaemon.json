@@ -3,9 +3,9 @@
 	"Type": "com.apple.asset.data",
 	"Payload": {
 		"Reference": {
-			"ContentType": "application/plist",
+			"ContentType": "text/xml",
 			"DataURL": "https://files.macadmins.io/io.macadmins.exampledaemon.plist",
-			"Hash-SHA-256": "2159a1ad14c57c82b877559f327cd3eaf787d7d2b8c8728dd011ef8bb5e14b90"
+			"Hash-SHA-256": "23b5ad7cd586dce311d0fe35a9032e5fd8de35bc8204fb14d33d878a7b0282c7"
 		}
 	},
 	"Authentication": {

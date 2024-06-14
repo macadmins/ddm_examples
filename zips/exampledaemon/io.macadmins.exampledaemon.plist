@@ -4,10 +4,6 @@
 <dict>
 	<key>Label</key>
 	<string>io.macadmins.exampledaemon</string>
-	<key>LimitLoadToSessionType</key>
-	<array>
-		<string>Aqua</string>
-	</array>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/bin/touch</string>

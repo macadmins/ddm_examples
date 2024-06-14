@@ -2,11 +2,13 @@
 	"Type": "com.apple.configuration.services.background-tasks",
 	"Identifier": "io.macadmins.config.exampledaemon",
 	"Payload": {
-		"LaunchdConfigurations": {
-			"Context": "daemon",
-			"FileAssetReference": "io.macadmins.asset.exampledaemon"
-		},
+		"TaskType": "io.macadmins.exampledaemon",
 		"TaskDescription": "Example Daemon",
-		"TaskType": "io.macadmins.exampledaemon"
+		"LaunchdConfigurations": [
+			{
+				"FileAssetReference": "io.macadmins.asset.exampledaemon",
+				"Context": "daemon"
+			}
+		]
 	}
 }
